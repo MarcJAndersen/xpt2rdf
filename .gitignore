@@ -31,3 +31,11 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# SAS output and dataset
+*.log
+*.lst
+*.sas7bdat
+
+# Turtle files
+*.ttl
